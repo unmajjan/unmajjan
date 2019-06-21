@@ -1,3 +1,3 @@
 # Unmajjan
 
-C header file to make simple 2D games in linux
+C header file for making simple 2D games in linux
