@@ -4,7 +4,7 @@ C header file for making simple 2D games in linux
 
 # External libraries used :
 
-1. x11/xlib.h
+1. X11/Xlib.h
 2. png.h
 
 # features
@@ -13,4 +13,4 @@ C header file for making simple 2D games in linux
 2. Insert .png images.
 3. Maniplulation on images, such as rotation, scaling, mirroring etc.
 4. Collision Detection among objects.
-5. functions to handle mouse and keyboard inputs.
+5. Functions to handle mouse and keyboard inputs.
